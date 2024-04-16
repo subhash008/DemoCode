@@ -2,7 +2,7 @@
 
 void fun(){
     static int count =0;
-    count++;
+    ++count;
     printf("Function is called %d times\n\n",count);
 
 }
