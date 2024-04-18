@@ -12,7 +12,7 @@ int sub(int x, int y){
 
 void main(){
 
-    int  (*fp)(int,int);
+    int  (*fp)  (int,int);
 
     fp=add;
 
