@@ -1,0 +1,4 @@
+File Positioning
+In C file operations, precise control over the file pointer's location within a file is crucial
+for various scenarios. Here's a detailed explanation of fseek, ftell, and rewind
+functions for file positioning:
